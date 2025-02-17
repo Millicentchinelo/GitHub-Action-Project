@@ -1,19 +1,14 @@
 {
-  "name": "nodejs",
+  "name": "github-actions-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Millicentchinelo/GitHub-Action-Project.git"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Millicentchinelo/GitHub-Action-Project/issues"
-  },
-  "homepage": "https://github.com/Millicentchinelo/GitHub-Action-Project#readme"
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
 }
