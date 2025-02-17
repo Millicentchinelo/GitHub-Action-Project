@@ -15,9 +15,6 @@
   "bugs": {
     "url": "https://github.com/Millicentchinelo/GitHub-Action-Project/issues"
   },
-  "scripts": {
-  "test": "echo \"No tests specified\""
-  },
   "homepage": "https://github.com/Millicentchinelo/GitHub-Action-Project#readme"
 }
 
