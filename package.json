@@ -18,17 +18,3 @@
   "homepage": "https://github.com/Millicentchinelo/GitHub-Action-Project#readme"
 }
 
-{
-  "name": "github-actions-demo",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "jest": "^27.4.3"
-  }
-}
